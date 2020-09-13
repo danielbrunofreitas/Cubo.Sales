@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubo.Sales", "Cubo.Sales\Cubo.Sales.csproj", "{FAA9C13A-DEEC-4D9A-AC91-C641D7D9C384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubo.Dados", "Cubo.Dados\Cubo.Dados.csproj", "{B2D77412-571C-4E39-AE66-8D536EC3EC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubo.Negocios", "Cubo.Negocios\Cubo.Negocios.csproj", "{B75849D2-EC9D-473C-ABF7-216BE55DE6CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubo.Entidades", "Cubo.Entidades\Cubo.Entidades.csproj", "{3DD0A75B-D13D-4B9B-9936-587F13E3FB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubo.Cripto", "Cubo.Cripto\Cubo.Cripto.csproj", "{CF76445E-BF01-46D3-91C5-98054B4B1FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubo.Essentials", "Cubo.Essentials\Cubo.Essentials.csproj", "{FE5C24FF-6506-44EA-8AE6-FD4973BEF3B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA9C13A-DEEC-4D9A-AC91-C641D7D9C384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA9C13A-DEEC-4D9A-AC91-C641D7D9C384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA9C13A-DEEC-4D9A-AC91-C641D7D9C384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA9C13A-DEEC-4D9A-AC91-C641D7D9C384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D77412-571C-4E39-AE66-8D536EC3EC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D77412-571C-4E39-AE66-8D536EC3EC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D77412-571C-4E39-AE66-8D536EC3EC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D77412-571C-4E39-AE66-8D536EC3EC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B75849D2-EC9D-473C-ABF7-216BE55DE6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75849D2-EC9D-473C-ABF7-216BE55DE6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75849D2-EC9D-473C-ABF7-216BE55DE6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75849D2-EC9D-473C-ABF7-216BE55DE6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD0A75B-D13D-4B9B-9936-587F13E3FB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD0A75B-D13D-4B9B-9936-587F13E3FB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD0A75B-D13D-4B9B-9936-587F13E3FB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD0A75B-D13D-4B9B-9936-587F13E3FB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF76445E-BF01-46D3-91C5-98054B4B1FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF76445E-BF01-46D3-91C5-98054B4B1FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF76445E-BF01-46D3-91C5-98054B4B1FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF76445E-BF01-46D3-91C5-98054B4B1FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5C24FF-6506-44EA-8AE6-FD4973BEF3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5C24FF-6506-44EA-8AE6-FD4973BEF3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5C24FF-6506-44EA-8AE6-FD4973BEF3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5C24FF-6506-44EA-8AE6-FD4973BEF3B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6978A758-26E5-4B3F-B5C3-247CD5F90977}
+	EndGlobalSection
+EndGlobal
